@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+    <_LastSelectedProfileId>C:\workspace\TifaN\tifan-codebuilder\CodeBook\CodeBook\CodeBook\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Dialog\ChapterScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialog\ImageViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialog\LangScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialog\LessonScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dialog\SearchScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p2_Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_addnew.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_deletecasecade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_refresh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_selectionIndex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_terminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1_p_viewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="services\render\MyButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="services\render\MyListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
