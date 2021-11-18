@@ -1,11 +1,11 @@
 # CookBook
 CookBook© 
 
+Installation :
+     go to appsettings-sqlite.json 
 
-go to appsettings-sqlite.json 
+ and    Change the database connection  and the application location on your device and then run the app normally from codebook.exe
 
-and define both the database location
-and the project location 
 
   "ConnectionStrings": {
     "DbCoreConnectionString": "Data Source=C:\\...\\DB\\codebook.db;"
